@@ -1,2 +1,1 @@
-# coursera
-Coursera test repository
+Akshit Gajera 😎
